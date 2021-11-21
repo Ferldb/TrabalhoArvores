@@ -11,9 +11,11 @@ Regra 2: As expressões poderão conter: operadores binário (+, -, *, /); unár
 
 4. (3.0 pontos) Defesa do Programa: a defesa do trabalho será realizada via sistema Teams na Semana 9 (15 a 21 de novembro). O dia e horário da apresentação será combinado com as equipes na Semana 08. 
 
+ SIMBOLOS:'#' = sqrt |'$' = ^
+
 Exemplos de expressões de entrada:
 
-[X] 3 + 5 * 8
+[x] 3 + 5 * 8
 
 [X] (3 + 5) * 8
 
@@ -33,5 +35,4 @@ Exemplos de expressões de entrada:
 
 [X] -54876 + 3334
 
-'#' = sqrt
-'$' = ^
+
