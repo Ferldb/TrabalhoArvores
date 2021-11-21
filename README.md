@@ -33,5 +33,5 @@ Exemplos de expressões de entrada:
 
 [X] -54876 + 3334
 
-# = sqrt
-$ = ^
+'#' = sqrt
+'$' = ^
